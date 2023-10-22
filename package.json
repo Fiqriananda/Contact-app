@@ -1,0 +1,16 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Contacs App",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0",
+    "yargs": "^17.7.2"
+  }
+}
